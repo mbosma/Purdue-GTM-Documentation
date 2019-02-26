@@ -1,5 +1,5 @@
 # GTM Documentation
-GTM Naming and Setup Documentation for Purdue University,  Polytechnic Institute
+Naming conventions and setup guidelines for Purdue University, Polytechnic Institute
 
 ## Naming Conventions
 
