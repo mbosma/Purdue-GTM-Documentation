@@ -11,7 +11,12 @@ PPI GA page views and events to match previous GA embed codes.
 * webform submissions
 * outbound link clicks
 
-To use the file, import it into your workspace and change the "ppi ga account" variable to match your GA tracking ID number. It is customized to match the default Drupal Google Analytics module settings to track events. It also includes auto tracking of submitted forms as events. This is based on the "Webform" module structure with unique form IDs.
+It is customized to match the default Drupal Google Analytics module settings to track events. It also includes auto tracking of submitted forms as events. This is based on the "Webform" module structure with unique form IDs. To use the file, make sure you do the following:
+1. import it into your workspace (Admin > Import Container)
+2. change the "ppi ga account" variable value and name to match your GA tracking ID number
+3. change the trigger and tag names to reflect your GA account property
+4. change the outbound link trigger to exclude your domain
+5. preview and validate events and pageviews are being tracked as expected in your GA realtime reports
 
 ## Naming Conventions
 
